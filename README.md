@@ -1,5 +1,8 @@
-## Hi there 👋
+Hello! My name is Mandy Zhan, and I am a third-year student at the University of Oregon, majoring in Data Science with a domain in Marketing Analytics and minors in Chinese and Business Administration.
 
+
+# Education
+* 
 <!--
 **mandyzhan05/mandyzhan05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
