@@ -1,8 +1,11 @@
-Hello! My name is Mandy Zhan, and I am a third-year student at the University of Oregon, majoring in Data Science with a domain in Marketing Analytics and minors in Chinese and Business Administration.
+Hello! My name is Mandy Zhan, and I am a third-year student at the University of Oregon. 
 
+## Education
+* B.S. in Data Science (Domain: Marketing Analytics), Chinese & Business Administration Minor | September 2023 - June 2027
+* National Taiwan Normal University | June 2024 - August 2024
 
-# Education
-* 
+## Tech Skills
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter) ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff) ![Microsoft Edge](https://custom-icon-badges.demolab.com/badge/Microsoft%20Edge-2771D8?logo=edge-white&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white) ![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)
 <!--
 **mandyzhan05/mandyzhan05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
