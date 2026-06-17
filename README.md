@@ -1,9 +1,7 @@
-Hello! My name is Mandy Zhan, and I am a third-year student at the University of Oregon graduating in 2027. I am pursuing a B.S. in Data Science with a domain in Marketing Analytics, supplemented with minors in Business Administration and Chinese.
-
-I am currently seeking an internship to gain hands-on experience in the realm of marketing data. I have always been fascinated by why some marketing campaigns go viral while others are quickly forgotten. My curiosity about the "why" is what drives me to understand the intersection of consumer psychology and predictive modeling. By leveraging creative strategy and raw data, I seek to produce interpretable and impactful results.
+Third year student at the University of Oregon pursuing a B.S. in Data Science with a domain in Marketing Analytics, supplemented with minors in Business Administration and Chinese. Currently seeking an internship to gain hands-on experience in the realm of marketing data, seeking to leverage creative strategy and raw data to produce interpretable and meaningful results. (Check pinned for featured projects!)
 
 ## :bookmark: Education
-* B.S. in Data Science (Domain: Marketing Analytics), Chinese & Business Administration Minor\
+* B.S. in Data Science (Domain: Marketing Analytics), Business Administration & Chinese Minor\
   _September 2023 - June 2027_
 * National Taiwan Normal University\
   _June 2024 - August 2024_
