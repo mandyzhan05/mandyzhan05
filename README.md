@@ -1,4 +1,4 @@
-Third year student at the University of Oregon pursuing a B.S. in Data Science with a domain in Marketing Analytics, supplemented with minors in Business Administration and Chinese. Currently seeking an internship to gain hands-on experience in the realm of marketing data, seeking to leverage creative strategy and raw data to produce interpretable and meaningful results. (Check pinned for featured projects!)
+Fourth-year student at the University of Oregon pursuing a B.S. in Data Science with a domain in Marketing Analytics, supplemented with minors in Business Administration and Chinese. Currently seeking an internship to gain hands-on experience in the realm of marketing data, seeking to leverage creative strategy and raw data to produce interpretable and meaningful results. (Check pinned for featured projects!)
 
 ## :bookmark: Education
 * B.S. in Data Science (Domain: Marketing Analytics), Business Administration & Chinese Minor\
